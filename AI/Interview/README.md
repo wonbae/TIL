@@ -1,9 +1,9 @@
 
 # 기본에 충실하자
 - 할것들
-자료구조, 알고리즘, 확률통계, ML, DL
+  - 자료구조, 알고리즘, 확률통계, ML, DL
 
-### 자료구조
+### 🗄자료구조
 ---
   - `힙소트, 퀵소트` & 나머지 정렬들
   - `시간복잡도`(단순 답이 아닌 왜 그런지 설명)
@@ -20,14 +20,14 @@
     - C++과 Python 차이
  
     
-### 알고리즘
+### 🔐알고리즘
 ---
   - `Dijkstra`
   - `Uniform Cost Search`
   - `A*`
   - Greedy
 
-### 확률통계(Probability and Statistics)
+### 📊확률통계(Probability and Statistics)
 ---
   - `CLT(central limit theorem)`
   - `가우시안 랜덤 벡터가 두종류가있는데 이게 서로독립임을 수학적으로 증명`
@@ -35,7 +35,22 @@
   
 
 
-### Machine Learning
+### ⚖️Machine Learning
 ---
+  - Linear Algebra
+    - Scalars, Vectors, Matrices and Tensors
+    - Multiplaying Matrices and Vectors
+  - Probability and Information Theory
+    - Probability Distributions
+  - Capacity, Overfitting and Underfitting
+  - Hyperparameters and Validation Sets
+  - Likelibood Estimation
+
+
+### 🕳Deep Learning
+---
+  - Feedforward Networks
+  - Regularization 
   - Optimization
-  - 
+  - CNN(Converlutional Neural Networs
+  - Sequence Modeling(RNN)
