@@ -1,7 +1,7 @@
 
 # 기본에 충실하자
 - 할것들
-  - 자료구조, 알고리즘, 확률통계, ML, DL
+  - 자료구조, 알고리즘, 확률통계, 선형대수, ML, DL
 
 ### 🗄자료구조
 ---
@@ -13,8 +13,15 @@
   
   - Stack/Queue
     - 어느경우에 스택/큐를 쓰는게 적절할까
+  - Heap
+  - Hash
+  
   - BFS/DFS
+  
   - 객체지향에 대해서(OOP)
+    - Class가 뭐임?
+    - struct와 차이는?
+    - 다형성이란?
   
   - 그외 
     - C++과 Python 차이
@@ -32,16 +39,18 @@
   - `CLT(central limit theorem)`
   - `가우시안 랜덤 벡터가 두종류가있는데 이게 서로독립임을 수학적으로 증명`
   - `고유값과 고유벡터 설명`
+  - Probability and Information Theory
+    - Probability Distributions
   
 
-
-### ⚖️Machine Learning
+### ⚙️Linear Algebra
 ---
   - Linear Algebra
     - Scalars, Vectors, Matrices and Tensors
     - Multiplaying Matrices and Vectors
-  - Probability and Information Theory
-    - Probability Distributions
+
+### ⚖️Machine Learning
+---
   - Capacity, Overfitting and Underfitting
   - Hyperparameters and Validation Sets
   - Likelibood Estimation
