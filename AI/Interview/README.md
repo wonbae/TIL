@@ -3,7 +3,7 @@
 - 할것들
   - 자료구조, 알고리즘, 확률통계, 선형대수, ML, DL
 
-### 🗄자료구조
+### 🗄1. 자료구조(Data Structure)
 ---
   - `힙소트, 퀵소트` & 나머지 정렬들
   - `시간복잡도`(단순 답이 아닌 왜 그런지 설명)
@@ -27,14 +27,14 @@
     - C++과 Python 차이
  
     
-### 🔐알고리즘
+### 🔐2. 알고리즘(Algorithm)
 ---
   - `Dijkstra`
   - `Uniform Cost Search`
   - `A*`
   - Greedy
 
-### 📊확률통계(Probability and Statistics)
+### 📊3. 확률통계(Probability and Statistics)
 ---
   - `CLT(central limit theorem)`
   - `가우시안 랜덤 벡터가 두종류가있는데 이게 서로독립임을 수학적으로 증명`
@@ -43,20 +43,20 @@
     - Probability Distributions
   
 
-### ⚙️Linear Algebra
+### ⚙️ 4. Linear Algebra
 ---
   - Linear Algebra
     - Scalars, Vectors, Matrices and Tensors
     - Multiplaying Matrices and Vectors
 
-### ⚖️Machine Learning
+### ⚖️ 5. Machine Learning
 ---
   - Capacity, Overfitting and Underfitting
   - Hyperparameters and Validation Sets
   - Likelibood Estimation
 
 
-### 🕳Deep Learning
+### 🕳 6. Deep Learning
 ---
   - Feedforward Networks
   - Regularization 
